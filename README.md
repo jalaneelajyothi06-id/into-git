@@ -1,3 +1,4 @@
 # into-git
-intro/n
+intro
+<br>
 welcome to git-hub
